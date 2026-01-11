@@ -1,6 +1,8 @@
-## Amsterdam High School Selector
+## Amsterdam High School Selector Helper
 
-Helps fetch some general information about high schools around the city of Amsterdam such as enrolment, programs, types and such. The app produces a CSV file for you. 
+Helps fetch some general information about high schools around the city of Amsterdam such as enrolment, programs, types and such. The app produces a CSV file for you that will hopefully help you find the right school for your children.  
+
+Use at your own discretion. Remember that AI does make mistakes, so take some time to validate the output produced. 
 
 To use this app:
 1. Clone the repo
