@@ -46,7 +46,7 @@ def extract_meta_data(text: str) -> List[School]:
                               school_type=school_type,
                               vwo=vwo)
                        )
-    return schools[:2]
+    return schools
 
 def fetch_school_data_from_city() -> List[School]:
     parent_text = get_html_text(f"{BASE_URL}/nl/vo/lijst/")
