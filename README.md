@@ -4,7 +4,9 @@ Helps fetch some general information about high schools around the city of Amste
 
 Use at your own discretion. Remember that AI does make mistakes, so take some time to validate the output produced. 
 
-To use this app:
+<img src="ams_school.png" alt="System Diagram" width="350"/>
+
+### To use this app:
 1. Clone the repo
 2. Get the libraries: `pip install -r requirements.txt`
 3. Get an OpenAI account
